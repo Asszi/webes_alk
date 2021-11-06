@@ -3,8 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/2ora/demo/demo.iml" filepath="$PROJECT_DIR$/2ora/demo/demo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/3ora/demo2/demo2.iml" filepath="$PROJECT_DIR$/3ora/demo2/demo2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/2ora/.idea/webes_alk.iml" filepath="$PROJECT_DIR$/2ora/.idea/webes_alk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/webes_alk.iml" filepath="$PROJECT_DIR$/.idea/webes_alk.iml" />
     </modules>
   </component>
 </project>
